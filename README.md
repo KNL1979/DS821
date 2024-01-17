@@ -8,4 +8,4 @@ The downloaded file is a zipped JSON file, accessed through the provided script.
 As the zipped data exceeds the size limit allowed on GitHub (25 MB), users need to download the source data to their local system. 
 Make sure to adjust the file path in the script to match the location where you downloaded the data.
 
-
+Since this limitation exists i have made a random subset of the original dataframe consisting of 14295 abstracts/rows on which the notebook in this repo can be run.
