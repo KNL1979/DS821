@@ -19,4 +19,5 @@ The 'misc.' subfolder includes a code snippet for exploring the 'id' column to a
 
 Unfortunately, some output cells from the script were closed before uploading this notebook. Due to time constraints, rerunning the script is not an option. An alternative option would be to rerun the script with a much smaller subset, but there's a concern that it might not accurately reflect the results described in the associated paper.
 
+As a final remark, upon closer examination, I realized that the focus should have been on a single task. Nevertheless, having already developed the code for zero-shot classification, I opted to include it as well. As a result, there may be a less explicit connection between the two sub-assignments.
 
